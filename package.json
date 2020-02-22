@@ -1,0 +1,24 @@
+{
+   "name": "@bulma-partials/components-menu",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.scss",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bulma-partials/components-menu.git"
+   },
+   "keywords": [
+      "menu",
+      "bulma",
+      "scss"
+   ],
+   "author": "Yoni Calsin <helloyonicb@gmail.com>",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/bulma-partials/components-menu/issues"
+   },
+   "homepage": "https://github.com/bulma-partials/components-menu#readme"
+}
